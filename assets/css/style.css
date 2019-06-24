@@ -1,0 +1,23 @@
+</html>
+
+h1 {
+    
+    font-family: 'Lobster', cursive;
+}
+    
+ body {
+    background-image: url(/Users/gregquintana/Desktop/Basic-Portfolio/assets/images/wave.png)
+  }
+
+}
+
+p {
+    
+    top: 182px;
+    left: 20px;
+    
+}
+.navbartop {
+    display: inline;
+     
+}
