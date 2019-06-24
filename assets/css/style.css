@@ -1,23 +1,41 @@
-</html>
-
-h1 {
+img {float:left;}
     
-    font-family: 'Lobster', cursive;
-}
+   }
     
  body {
-    background-image: url(/Users/gregquintana/Desktop/Basic-Portfolio/assets/images/wave.png)
+                 font-family: 'Abel', sans-serif;
+
+                 background-image: url("/assets/images/lilypads.png");
   }
+
+.aboutMe { 
+                    font-family: 'Abel', sans-serif;    
+                    float:top;  
+                    position:relative;
+                    top :202px 
+
 
 }
 
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5}
+
+.header{
+                     background-color: red;
+}
 p {
     
-    top: 182px;
-    left: 20px;
+                     top: 182px;
+                     left: 20px;
     
 }
 .navbartop {
-    display: inline;
+                     display: inline;
      
 }
+.header {
+                      background-color: #F1F1F1;
+                      text-align: center;
+                      padding: 20px;
+      }
